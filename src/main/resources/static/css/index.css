@@ -62,12 +62,12 @@
 }
 
 .chat-input input {
-    line-height: 30px;
-    width: 300px;
+    line-height: 50px;
+    width: 800px;
 }
 
 .chat-input .send-btn {
-    line-height: 30px;
+    line-height: 50px;
 }
 
 .chat-message-container {
